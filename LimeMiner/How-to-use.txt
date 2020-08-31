@@ -1,0 +1,11 @@
+Drag Lime.exe onto your Desktop.
+
+Execute the program.
+
+Configure and add your settings.
+
+Press build and go to the output folder.
+
+You will find an exe file, send it to your targets.
+
+Subscribe to w3w3w3 on YouTube.
